@@ -12,9 +12,12 @@ Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Re
 Above url is an official implementation of "Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning" on PyTorch.
 
 Citation 
+
 @article{xie2020propagate,
   title={Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning},
   author={Xie, Zhenda and Lin, Yutong and Zhang, Zheng and Cao, Yue and Lin, Stephen and Hu, Han},
   conference={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2021}
 }
+
+
